@@ -1,0 +1,18 @@
+{
+  "name": "inscribe-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wxd56987",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@cmdcode/crypto-utils": "^2.4.6",
+    "@cmdcode/tapscript": "^1.5.2",
+    "axios": "^1.7.9"
+  }
+}
